@@ -30,7 +30,7 @@ import Queue
 from BaseHTTPServer import HTTPServer
 from BaseHTTPServer import BaseHTTPRequestHandler
 
-from srtmread import elevationtoinflux
+#from srtmread import elevationtoinflux
 
 
 from influxdb import InfluxDBClient
