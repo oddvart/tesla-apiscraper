@@ -35,7 +35,7 @@ from BaseHTTPServer import BaseHTTPRequestHandler
 
 from influxdb import InfluxDBClient
 from pprint import pprint
-from config import *
+from /etc/tesla/config import *
 
 a_vin = ""
 a_displayname = ""
