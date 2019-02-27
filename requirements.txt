@@ -1,3 +1,4 @@
 influxdb
 config
 git+git://github.com/tkrajina/srtm.py
+pathlib
